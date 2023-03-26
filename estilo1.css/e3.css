@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    padding:0px;
+    }
+
+    #color10{
+        text-align: center;
+        background: linear-gradient(180deg, red, orange, yellow, green, blue, indigo, violet);
+      }
+
+      #color1{
+        text-align: center;
+        background: linear-gradient(180deg, yellow, green, blue, indigo, violet);
+      }
+
+      #color2{
+        text-align: center;
+      background: linear-gradient(to right, red, yellow);
+      }
+      #color3{
+        text-align: center;
+      background: linear-gradient(to right, rgb(190, 0, 0), rgb(0, 89, 255));
+      }
